@@ -24,3 +24,9 @@ npm run dev
 3. 可选：设置 `OPENAI_API_KEY`、`OPENAI_IMAGE_MODEL`、`OPENAI_SCRIPT_MODEL`。
 
 如果不设置 `OPENAI_API_KEY`，用户也可以在页面设置里填写自己的 Key；Key 会保存在浏览器本地，并只在请求生成时发给本项目的 API Route。
+
+<img width="453" height="680" alt="image" src="https://github.com/user-attachments/assets/b47c6700-7dcc-477d-9192-8d301c3e4985" />
+
+## 服务案例
+
+[https://jiange.moshushi.xyz/](https://jiange.moshushi.xyz/)
