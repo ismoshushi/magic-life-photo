@@ -27,6 +27,6 @@ npm run dev
 
 <img width="453" height="680" alt="image" src="https://github.com/user-attachments/assets/b47c6700-7dcc-477d-9192-8d301c3e4985" />
 
-## 服务案例
+## 案例
 
 [https://jiange.moshushi.xyz/](https://jiange.moshushi.xyz/)
